@@ -2,7 +2,7 @@
 
 A toast notification edited to fit as a MadCap Flare Build Notification.
 
-## How to use
+## Requirements
 
 >**Important:** Python needs to be installed for this script to work in MadCap Flare. 
 
